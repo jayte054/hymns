@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+This project shows the fundamentals of creating a project with react using typescript.
+
+within the project you'll find lacking is the accurate use of the types that should follow.
+you'll learn to fetch api's, map the api's , pass the api's using props.
+
+you'll also learn how to use the fundamental class component.
