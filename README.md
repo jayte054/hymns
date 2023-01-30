@@ -52,3 +52,5 @@ within the project you'll find lacking is the accurate use of the types that sho
 you'll learn to fetch api's, map the api's , pass the api's using props.
 
 you'll also learn how to use the fundamental class component.
+
+advise to start from the top so you'll have a full understanding
